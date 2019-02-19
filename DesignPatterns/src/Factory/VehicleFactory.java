@@ -12,4 +12,8 @@ public class VehicleFactory
         }
         return null;
     }
+        VehicleFactory()
+        {
+
+        }
 }

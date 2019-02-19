@@ -1,6 +1,6 @@
 package Factory;
 
 public interface Vehicle {
-    public void changeTyres();
+    void changeTyres();
 }
 

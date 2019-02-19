@@ -2,5 +2,5 @@ projectKey=DesignPatterns
 serverUrl=http://localhost:9000
 serverVersion=6.7.6.38781
 dashboardUrl=http://localhost:9000/dashboard/index/DesignPatterns
-ceTaskId=AWkEZosUNiheTFoiQ0Ib
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWkEZosUNiheTFoiQ0Ib
+ceTaskId=AWkEmGZXNiheTFoiQ0Ij
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWkEmGZXNiheTFoiQ0Ij
